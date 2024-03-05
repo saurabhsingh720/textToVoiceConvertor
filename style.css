@@ -88,6 +88,7 @@ select{
    select{
     font-size: 9px;
     width: 100%;
+    flex: 1;
    }
    button{
     font-size: 10px;
@@ -99,5 +100,11 @@ select{
     width: 46vw;
     height: 30vh;
    }
+   .hero h1{
+    font-size: 4vw;
+    font-weight: 300;
+    margin-top: -30px;
+    margin-bottom: 50px;
+}
 
 }
